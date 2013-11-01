@@ -32,7 +32,7 @@ import org.springframework.context.annotation.Configuration;
  * Provides shared configuration between Client and Server.  
  * <p>The abstract method configureRabbitTemplate lets the Client and Server further customize
  * the rabbit template to their specific needs.
- * test
+ * testffff
  * 
  * @author Mark Pollack
  * @author Mark Fisher
